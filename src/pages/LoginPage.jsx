@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
-import { motion } from 'framer-motion'; // Import Framer Motion
+import { motion } from 'framer-motion'; 
 
 function LoginPage() {
   const [username, setUsername] = useState('');

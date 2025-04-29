@@ -184,7 +184,7 @@ const ProjectDisplay = () => {
                   whileTap={{ scale: 0.9 }}
                   whileHover={{
                     scale: 1.05,
-                    backgroundColor: "#3b82f6", // Tailwind blue-500
+                    backgroundColor: "#3b82f6", 
                     transition: { duration: 0.4 },
                   }}
                 >
@@ -204,7 +204,7 @@ const ProjectDisplay = () => {
                   whileTap={{ scale: 0.9 }}
                   whileHover={{
                     scale: 1.05,
-                    backgroundColor: "#ef4444", // Tailwind red-500
+                    backgroundColor: "#ef4444", 
                     transition: { duration: 0.4 },
                   }}
                 >
